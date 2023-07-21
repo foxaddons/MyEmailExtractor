@@ -1,4 +1,4 @@
-# MyEmailExtractor
+# My Email Extractor
 
 Email Extractor (Fork) - Firefox Addon
 
